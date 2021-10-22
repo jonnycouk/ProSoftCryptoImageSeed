@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProSoft.Crypto.ImageSeed", "ProSoft.Crypto.ImageSeed\ProSoft.Crypto.ImageSeed.csproj", "{C165AA2B-4395-4171-9B95-1A34E831DDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C165AA2B-4395-4171-9B95-1A34E831DDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C165AA2B-4395-4171-9B95-1A34E831DDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C165AA2B-4395-4171-9B95-1A34E831DDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C165AA2B-4395-4171-9B95-1A34E831DDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6DBC0C-6A03-4E8D-9069-12AB6E4A7D62}
+	EndGlobalSection
+EndGlobal
